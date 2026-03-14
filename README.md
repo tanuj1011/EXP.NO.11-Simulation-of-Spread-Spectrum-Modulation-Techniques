@@ -1,4 +1,4 @@
-# EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
+# EXP.NO.7-Simulation-of-Spread-Spectrum-Modulation-Techniques
 
 11.Simulation of Spread Spectrum Modulation Techniques
 
